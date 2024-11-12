@@ -1,7 +1,7 @@
 <?php
 
 //main connection file for both admin & front end
-$servername = "cc-rds-food-website.cbwwcgsuahye.eu-north-1.rds.amazonaws.com"; //server
+$servername = "fooddb.c58omqag6p3a.ap-south-1.rds.amazonaws.com"; //server
 $username = "admin"; //username
 $password = "12345678"; //password
 $dbname = "online_rest";  //database
